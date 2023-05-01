@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="title">PS5 VIDEOGAMES</string>
+
+    <string name="title_dmc">DEVIL MAY CRY 5</string>
+    <string name="title_horizon">HORIZON FORBIDDEN WEST</string>
+    <string name="title_lou">THE LAST OF US 1</string>
+    <string name="title_gow">GOD OF WAR RAGNAROW</string>
+    <string name="title_village">RESIDENT EVIL VILLAGE</string>
+
+    <string name="company_dmc">CAPCOM</string>
+    <string name="company_horizon">GUERRILLA</string>
+    <string name="company_lou">NAUGHTY DOG</string>
+    <string name="company_gow">SANTA M0NICA STUDIO</string>
+    <string name="company_village">CAPCOM</string>
+
+    <string name="year_dmc">2019</string>
+    <string name="year_horizon">2022</string>
+    <string name="year_lou">2023</string>
+    <string name="year_gow">2022</string>
+    <string name="year_village">2021</string>
+
+    <string name="bt_previous">Previous</string>
+    <string name="bt_next">Next</string>
+</resources>
